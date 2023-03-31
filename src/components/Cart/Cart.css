@@ -1,0 +1,11 @@
+.cart {
+  position: sticky;
+  top: 50px;
+}
+.cart h6 {
+  margin-bottom: 0;
+  padding-bottom: 4px;
+  font-size: 24px;
+  line-height: 30px;
+  color: #1c2b35;
+}
